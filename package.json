@@ -1,0 +1,24 @@
+{
+  "name": "primera-entrega",
+  "version": "1.0.0",
+  "description": "Bonus",
+  "main": "Principal.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juankmanca/Curso_Node.git"
+  },
+  "author": "Juan Camilo Ocampo Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juankmanca/Curso_Node/issues"
+  },
+  "homepage": "https://github.com/juankmanca/Curso_Node#readme"
+}
